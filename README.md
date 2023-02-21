@@ -2,11 +2,13 @@
 
 Wails Solid JS starter template
 
+Forked from [sidwebworks/wails-solid-template](https://github.com/sidwebworks/wails-solid-template).
+
 ## Usage
 
 1. Create a new wails project using this template by running
 ```sh
-wails init -n my-solid-app -t https://github.com/sidwebworks/wails-solid-template
+wails init -n my-solid-app -t https://github.com/j787701730/wails-solid-template
 ```
 
 2. Before running `wails dev` command, you first need to install the frontend dependencies and generate the `frontend/dist` directory by running
