@@ -4,6 +4,7 @@
   "frontend:install": "pnpm install",
   "frontend:build": "pnpm build",
   "frontend:dev:watcher": "pnpm dev",
+  "frontend:dev:serverUrl": "auto",
   "author": {
     "name": "Sidwebworks",
     "email": "xodedeveloper@gmail.com"
